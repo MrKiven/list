@@ -2,5 +2,7 @@
 name = "list"
 version = "0.1.0"
 authors = ["kiven <kiven.mr@gmail.com>"]
+description = "A singly-linked stack support peek."
+license = "MIT"
 
 [dependencies]
