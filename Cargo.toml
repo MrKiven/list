@@ -3,6 +3,7 @@ name = "list"
 version = "0.1.1"
 authors = ["kiven <kiven.mr@gmail.com>"]
 description = "A singly-linked stack like list support peek."
+documentation = "https://docs.rs/list"
 license = "MIT"
 
 [dependencies]
