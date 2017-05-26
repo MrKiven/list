@@ -1,6 +1,6 @@
 [package]
 name = "list"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["kiven <kiven.mr@gmail.com>"]
 description = "A singly-linked stack like list support peek."
 documentation = "https://docs.rs/list"
