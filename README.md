@@ -57,6 +57,6 @@ fn main() {
 `cargo test -v`
 
 
-## License
+## LICENSE
 
 [MIT](LICENSE)
