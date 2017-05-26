@@ -1,8 +1,8 @@
 [package]
 name = "list"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["kiven <kiven.mr@gmail.com>"]
-description = "A singly-linked stack support peek."
+description = "A singly-linked stack like list support peek."
 license = "MIT"
 
 [dependencies]
