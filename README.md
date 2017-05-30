@@ -15,7 +15,7 @@ Add this to `Cargo.toml` file of your project:
 
 ```
 [dependencies]
-list = "~0.1.1"
+list = "~0.1.3"
 ```
 
 ### Usage
